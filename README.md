@@ -1,7 +1,7 @@
 # Configuracion-Raspberry-pi
 Este repositorio tiene como finalidad ser una guia para la correcta instalacion y configuracion del sistema operativo, ademas de los matreiales necesarios para el uso de una Raspberry pi.
 
-##Material necesario
+## Material necesario
 
 - [Ubuntu 20.04](https://releases.ubuntu.com/20.04/)
 - [Raspberry pi imager](https://www.raspberrypi.com/software/)
